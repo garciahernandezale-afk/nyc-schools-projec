@@ -5,7 +5,7 @@ This repository contains an analysis of public school exam results in New York C
 ## Included files
 - **notebook.ipynb** → Jupyter Notebook with the data analysis.
 - **schools.csv** → Dataset with information about schools and their scores.
-- **schoolbus.jpg** → Example image used in the project.
+- **schoolbus.jpg** → Example image used in the projecmm
 
 ## How to use
 1. Open the `notebook.ipynb` file directly on GitHub or in Jupyter Notebook.
